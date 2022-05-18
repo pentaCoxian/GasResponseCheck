@@ -1,0 +1,22 @@
+{
+  "name": "gasresponsecheck",
+  "version": "1.0.0",
+  "description": "GAS function to check responses",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pentaCoxian/GasResponseCheck.git"
+  },
+  "author": "pentacoxian",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pentaCoxian/GasResponseCheck/issues"
+  },
+  "homepage": "https://github.com/pentaCoxian/GasResponseCheck#readme",
+  "devDependencies": {
+    "@types/google-apps-script": "^1.0.47"
+  }
+}
