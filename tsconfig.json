@@ -1,11 +1,7 @@
 {
     "compilerOptions": {
-        "isolatedModules": true,
-        "noResolve": true,
         "target": "ES2019",
-        "module": "None",
         "experimentalDecorators": true,
-        "lib": ["esnext"],
         "strict": true,
         "forceConsistentCasingInFileNames": true
     }
